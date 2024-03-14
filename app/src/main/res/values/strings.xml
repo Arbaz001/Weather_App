@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Weather_app</string>
     <string name="designed_by_arbaz">Designed by Arbaz</string>
-    <string name="weather_matters_nwe_ve_gote_the_details">Weather Matters,\nWe\'ve Gote the Details</string>
+    <string name="weather">Weather</string>
 </resources>
